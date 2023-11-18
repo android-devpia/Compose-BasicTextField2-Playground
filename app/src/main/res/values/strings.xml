@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Compose-BasicTextField2-Playground</string>
+    <!--Login screen-->
+    <string name="login_button">Log in</string>
+    <string name="login_title">Log in with email</string>
+    <!--Sign up screen-->
+    <string name="sign_up_button">Sign up</string>
+    <string name="sign_up_title">Sign up with us</string>
+
+    <string name="credit_card_details">Credit card details</string>
+
+    <string name="post_code">Billing address</string>
 </resources>
